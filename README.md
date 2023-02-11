@@ -6,3 +6,4 @@ Web CRUD приложение "Библиотека", с применением 
 - Hibernate validator
 - Настройка представления HTML, Thymeleaf;
 - Связь с базой данных происходит по паттерну DAO
+- JUnit, Mockito
